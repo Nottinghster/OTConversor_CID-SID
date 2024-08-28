@@ -5,7 +5,7 @@ import os.path
 import re
 import shutil
 
-dirname = ""
+dirname = "" # Example: C:/DIR/Scripts/
 matched_exts = [".xml", ".lua"]
 
 ignored_files = []
